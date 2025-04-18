@@ -52,5 +52,4 @@ You can play the game live here: [Project Demo](https://manideeprps.ccbp.tech)
 - JavaScript (ES6+)
 - CSS
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
