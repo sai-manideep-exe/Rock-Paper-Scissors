@@ -23,6 +23,7 @@ You can play the game live here: [Project Demo](https://manideeprps.ccbp.tech)
     ```bash
     git clone https://github.com/sai-manideep-exe/Rock-Paper-Scissors.git
     ```
+    
 
 2. Navigate to the project folder:
     ```bash
