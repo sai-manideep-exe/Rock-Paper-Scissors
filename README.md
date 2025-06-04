@@ -13,9 +13,9 @@ You can play the game live here:- https://manideeprps.ccbp.tech
 <br/>
 
 ## Features
-- Choose between Rock, Paper, and Scissors.
-- Play against the computer.
-- Keeps track of your score.
+- Choose between Rock, Paper, and Scissors
+- Play against the computer
+- Keeps track of your score
 
 ## Installation
 
