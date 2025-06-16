@@ -2,7 +2,7 @@
 
 A fun and interactive Rock Paper Scissors game built using React.js. Play against the computer, track your score, and enjoy a simple yet engaging classic!
 
-## Live Demo
+## Live Link
 You can play the game live here:- https://manideeprps.ccbp.tech
 
 
